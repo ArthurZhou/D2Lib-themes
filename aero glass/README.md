@@ -9,7 +9,7 @@ This readme is for a D2Lib theme. You can view it [here](https://github.com/Arth
 - License: GPL-3.0
 - Version: 1.0.0
 - Supported D2Lib version: >=1.3.0-beta1
-- Includes: login.html
+- Includes: login.html, image/bg.jpg
 - Official website: [https://github.com/ArthurZhou/D2Lib-themes](https://github.com/ArthurZhou/D2Lib-themes)
 - Descriptions: This is an official theme of D2Lib.
 
